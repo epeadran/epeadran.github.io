@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://epeadran.github.io/sitemap.html.gz
+Sitemap: https://epeadran.github.io/app/sitemap.html.gz
+Sitemap: https://epeadran.github.io/assets/sitemap.html.gz
+Sitemap: https://epeadran.github.io/css/sitemap.html.gz
+Sitemap: https://epeadran.github.io/includes/sitemap.html.gz
+Sitemap: https://epeadran.github.io/item/sitemap.html.gz
+Sitemap: https://epeadran.github.io/src/sitemap.html.gz
